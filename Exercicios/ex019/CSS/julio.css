@@ -22,3 +22,11 @@ h1#principal{
     color: white;
 }
 
+h2.basico{
+    color: lightblue;
+}
+
+h2.avancado{
+    color: lightgreen;
+}
+
